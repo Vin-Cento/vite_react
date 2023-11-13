@@ -1,0 +1,12 @@
+.navbar {
+  margin-left: 1.2rem;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.navbar-active {
+  margin-left: 1.2rem;
+  font-weight: 800;
+  color: #d27519;
+  /* border-bottom: 1px solid; */
+}
